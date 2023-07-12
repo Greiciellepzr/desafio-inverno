@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  background-color: #4b93bf;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  font-family: "inter", sans-serif;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  width: 50vw;
+}
+header section {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 20vw;
+}
+.testep {
+  background-color: #e4eef1;
+  display: flex;
+}
+.paragráfo {
+  display: flex;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  color: #0f468c;
+}
+p {
+  display: flex;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+}
+img {
+  display: flex;
+  align-items: center;
+}
+.container2 {
+  display: flex;
+  background-color: #4b93bf;
+}
+.texto2 {
+  font-family: "Inter", sans-serif;
+  font-size: 32px;
+  color: white;
+}
+.conteiner2 {
+  display: flex;
+  background-color: #e4eef1;
+}
+footer {
+  display: flex;
+  color: #e4eef1;
+  background-color: #4b93bf;
+  align-content: space-around;
+  justify-content: space-between;
+}
+.redes {
+  display: flex;
+  justify-content: flex-start;
+}
+.tm-social {
+  width: 108px;
+  height: 108px;
+  position: center;
+}
+.ursos {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #e4eef1;
+}
+
+.grito {
+  position: relative;
+  top: 8px;
+  left: 9px;
+}
+
+.nomes {
+  width: 400px;
+  height: 113px;
+  font-size: 1em;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
